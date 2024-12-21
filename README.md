@@ -65,6 +65,9 @@ Nella pianificazione dello spazio dei giunti la traiettoria è stabilita in funz
 <tr>
 </table>
 </div>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/bf5bd090-e334-4259-af82-9d5e48f09db9" alt="image8" width="300">
+</div>
 
 ---
 
