@@ -44,7 +44,6 @@ In joint space planning, the trajectory is established as a function of the vari
 <td><img src="https://github.com/user-attachments/assets/73f658dd-8109-4f85-9c44-ec6edf6621a2" alt="image8" width="300"></td>
 <td><img src="https://github.com/user-attachments/assets/d441a499-e483-45fc-b792-6693b0030693" alt="image9" width="300"></td>
 </tr>
-<tr>
 </table>
 </div>
 <div align="center">
