@@ -84,7 +84,6 @@ A static analysis identifies the maximum load that can be lifted by the crane be
 </div>
 **m = 1200 kg**, **M = -438.5289 Nm**.
 
----
 
 ## DYNAMIC ANALYSIS
 
