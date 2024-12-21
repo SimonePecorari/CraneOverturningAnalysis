@@ -147,3 +147,6 @@ Considerando la traiettoria percorsa, suddivisa negli intervalli descritti, si d
 <div align="center">
 <img src="https://github.com/user-attachments/assets/84807e28-2cf7-4e13-b4c3-c910f3a4625d" alt="image26" width="400">
 </div>
+
+## Member
+Veronica Ilari
