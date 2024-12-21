@@ -5,13 +5,13 @@ L’obiettivo del progetto è determinare il ribaltamento di una gru posta sopra
 
 ## SOFTWARE UTILIZZATI
 
-- **Matlab**
+- [![MATLAB](https://img.shields.io/badge/MATLAB-FF7F00?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
     - Analisi della cinematica diretta.
     - Definizione dello spazio dei giunti.
     - Analisi statica e dinamica: calcolo della massa limite di sollevamento (verifica del ribaltamento del mezzo).
     - Confronto dei plot ottenuti con le omologhe rappresentazioni nel software multibody «Adams».
 
-- **Adams**
+- [![Adams Multibody](https://img.shields.io/badge/Adams--Multibody-34A853?style=for-the-badge)](https://www.mscsoftware.com/product/adams)
     - Realizzazione del modello multibody con 4 link e 4 giunti di cui: 3 rotoidali e 1 prismatico, il quale permette l’estensione dell’ultimo braccio.
     - Assegnazione dei motori (motions) relativi ai giunti inseriti.
     - Realizzazione della struttura del camion così da definirne le dimensioni effettive e le relative masse.
