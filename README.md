@@ -104,14 +104,20 @@ La massa con la quale avviene il ribaltamento è **m = 1200 kg**, ed il momento 
 Lo studio della dinamica è stato eseguito tramite le equazioni di Newton-Eulero, le quali permettono di ottenere le coppie ai giunti e le reazioni vincolari scambiate tra le aste stesse o tra le aste e il telaio. 
 
 ### Intervalli di traiettoria
+1° intervallo
 <div align="center">
-    1° intervallo
 <img src="https://github.com/user-attachments/assets/f6d25809-f44f-43fe-9d9d-8e7cc210080b" alt="image19" width="400">
-    2° intervallo
+</div>
+2° intervallo
+<div align="center">
 <img src="https://github.com/user-attachments/assets/02726afa-8e99-455c-bfad-48c7dc1f0fac" alt="image20" width="400">
-    3° intervallo
+</div>
+3° intervallo
+<div align="center">
 <img src="https://github.com/user-attachments/assets/01cfe465-93b6-4884-8b24-2bac41b8b2b9" alt="image21" width="400">
-    4° intervallo
+</div>
+4° intervallo
+<div align="center">
 <img src="https://github.com/user-attachments/assets/f656727a-97d6-458a-87b5-a1ccb3784e47" alt="image22" width="400">
 </div>
 
