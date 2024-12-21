@@ -47,7 +47,7 @@ In joint space planning, the trajectory is established as a function of the vari
 </table>
 </div>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/bf5bd090-e334-4259-af82-9d5e48f09db9" alt="image8" width="300">
+<img src="https://github.com/user-attachments/assets/bf5bd090-e334-4259-af82-9d5e48f09db9" alt="image10" width="300">
 </div>
 
 ---
@@ -58,7 +58,8 @@ A static analysis identifies the maximum load that can be lifted by the crane be
 
 ### 1° Configuration (0 rad)
 <div align="center">
-<img src="https://github.com/user-attachments/assets/34bc3f4f-21e0-47f3-b87a-aef5c3f26e03" alt="image11" width="400">
+<img src="https://github.com/user-attachments/assets/731fbfb7-810e-447d-91b5-778b1ab7d05e" alt="image11" width="400">
+
 <img src="https://github.com/user-attachments/assets/a4b3fbef-232e-4661-8777-7fe7c63eb389" alt="image12" width="400">
 </div>
 **m = 990 kg**, **M = -569.0779 Nm**
