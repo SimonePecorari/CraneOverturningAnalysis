@@ -42,16 +42,16 @@ Inoltre, viene creata una function ‘DK3R1P’ che verrà utilizzata per determ
 <img src="https://github.com/user-attachments/assets/04e3be94-82c1-40e1-90bb-2a8a46d6ed0c), ![image](https://github.com/user-attachments/assets/0bc3df3b-57d3-47e2-95c6-fe0dc9801083" alt="image4" width="300">
 </div>
 ## SCHEMA CONFIGURAZIONE GRU
-<div align="left">
+<div align="center">
 <img src="https://github.com/user-attachments/assets/9d5a3c46-a193-4b8e-a8fe-ff789091087e" alt="image5" width="300"> 
 </div>
-<div align="right">
+<div align="center">
 <img src="https://github.com/user-attachments/assets/fd8fd1ae-dd32-418f-baee-f8662a499305" alt="image6" width="300">
 </div>
 
 ## PIANIFICAZIONE SPAZIO DEI GIUNTI
 Nella pianificazione dello spazio dei giunti la traiettoria è stabilita in funzione delle variabili controllate durante il moto (giunti). Nel passare dalla configurazione iniziale a quella finale i giunti si muovono a velocità costante, percorrendo escursioni angolari costanti in intervalli di tempo costanti. La traiettoria del terminale è ottenuta come conseguenza del moto dei giunti e viene descritta da un polinomio di grado 5.  
-<div align="left">
+<div align="center">
 <img src="https://github.com/user-attachments/assets/627e84ed-90c3-40d8-86bc-fa45400c3f6d" alt="image7" width="300"> 
 <img src="https://github.com/user-attachments/assets/73f658dd-8109-4f85-9c44-ec6edf6621a2" alt="image8" width="300"> 
 <img src="https://github.com/user-attachments/assets/d441a499-e483-45fc-b792-6693b0030693" alt="image9" width="300"> 
@@ -61,10 +61,10 @@ Nella pianificazione dello spazio dei giunti la traiettoria è stabilita in funz
 ## ANALISI STATICA
 Tramite un’analisi statica si individua il carico massimo sollevabile dalla gru prima del ribaltamento. Sono state prese in esame quattro configurazioni principali: q1=0, q1= π/2, q1= π, q1=3/2π, considerando per ognuna la massima estensione dei bracci.  Si mostra lo script della prima configurazione, in cui si analizza l’equilibrio dei momenti intorno alle ruote: anteriore sinistra e posteriore sinistra.
 - 1° configurazione (0 rad)
-<div align="left">
+<div align="center">
 <img src="https://github.com/user-attachments/assets/34bc3f4f-21e0-47f3-b87a-aef5c3f26e03" alt="image11" width="300"> 
 </div>
-<div align="right">
+<div align="center">
 <img src="https://github.com/user-attachments/assets/a4b3fbef-232e-4661-8777-7fe7c63eb389" alt="image12" width="300">
 </div>
 
@@ -72,16 +72,22 @@ La massa con la quale avviene il ribaltamento è m = 990 kg, ed il momento corri
 
 
 - 2° configurazione (pi/2 rad)
-<div align="left">
+<div align="center">
 <img src="https://github.com/user-attachments/assets/f5ff9517-008e-49ca-b14b-459a2d79f415" alt="image13" width="300">
 </div>
-![image](https://github.com/user-attachments/assets/7af612cd-0fdc-4c34-b9de-8fd0dc1989f3)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/7af612cd-0fdc-4c34-b9de-8fd0dc1989f3" alt="image14" width="300">
+</div>    
 La massa con la quale avviene il ribaltamento è m = 3180 kg, ed il momento corrispondente è M = -270.6219 Nm.
 
 
 - 3° configurazione (pi rad)
-![image](https://github.com/user-attachments/assets/9ce66da7-2219-45ac-b135-add9304c60c8)
-![image](https://github.com/user-attachments/assets/64352445-c790-476b-bc02-631dbfd4b063)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/9ce66da7-2219-45ac-b135-add9304c60c8" alt="image15" width="300">
+</div>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/64352445-c790-476b-bc02-631dbfd4b063" alt="image16" width="300">
+</div>    
 La massa con la quale avviene il ribaltamento è m = 1000 kg, ed il momento corrispondente è M = -491.8556 Nm.
 
 
