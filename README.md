@@ -1,4 +1,5 @@
 ## OVERTURNING ANALYSIS OF A CRANE ON A TRUCK
+![un autocarro con sopra dei bracci di gru](https://github.com/user-attachments/assets/36246ed2-844a-4502-8687-32f8ac7a898f)
 
 ## OBJECTIVE
 The objective of the project is to determine the overturning of a crane placed on top of a lorry, after defining the geometric data obtained from a technical data sheet of an existing crane truck; then the permissible load for the lorry not to overturn is identified.
