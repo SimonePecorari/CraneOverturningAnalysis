@@ -124,10 +124,11 @@ Considering the trajectory traveled, divided into the intervals described, the c
 <img src="https://github.com/user-attachments/assets/ef95f0b3-ab61-417f-8f70-5d3edc143733" alt="image25" width="400">
 </div>
 
-### PLOTS
+### Conclusion
 <div align="center">
 <img src="https://github.com/user-attachments/assets/84807e28-2cf7-4e13-b4c3-c910f3a4625d" alt="image26" width="400">
 </div>
+By analyzing the obtained plots we can affirm that the load equal to 900 kg is admissible to avoid overturning
 
 ## Member
 Veronica Ilari
